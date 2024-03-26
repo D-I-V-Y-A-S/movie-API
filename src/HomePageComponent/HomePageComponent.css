@@ -1,0 +1,18 @@
+.box {
+    display: flex;
+    width: 40%;
+    border: solid 2px black;
+    margin: 10px;
+  }
+  
+  .align {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .movie-info {
+    flex: 1;
+    padding: 10px;
+  }
+  
